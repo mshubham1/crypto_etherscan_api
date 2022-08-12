@@ -5,7 +5,6 @@ It is an application through which we we fetch the data of crypto transaction us
 ## Table Content ✏️
 * Overview
 * Installation
-* Deployment
 * Documentation
 * Directory Tree
 * Technology Used
@@ -20,12 +19,6 @@ The Code is written in Node js , with Stanadard MVC architecture.
 ```bash
 npm install express dotenv cors mongoose request axios 
 ```
-## Deployment
-
-# AWS
-App is deployed in the AWS EC2 instance for free tier.
-![image](https://user-images.githubusercontent.com/47842305/139574951-4d9f1732-456c-4862-b9c0-84f673c7f6b7.png)
-
 ## Tree Structure
 ```javascript
 ├── config
