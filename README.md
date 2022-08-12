@@ -17,7 +17,8 @@ This is MERN Stack web application developed using Express, Node Js, REST API, M
 
 ## Installations  🗄️
 The Code is written in Node js , with Stanadard MVC architecture.
-  npm install express dotenv cors mongoose request axios 
+
+npm install express dotenv cors mongoose request axios 
 ```
 ## Deployment
 
